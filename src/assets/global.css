@@ -1,0 +1,13 @@
+/* .catalog-card {
+  background-color: rgb(240, 240, 240);
+  border-radius: 30px;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 5rem;
+  width: fit-content;
+} */
+
+.catalog-img {
+  border-radius: 30px;
+  width: 300px;
+}
