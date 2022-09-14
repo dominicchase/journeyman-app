@@ -1,10 +1,11 @@
 import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 export const App = () => {
   return (
-    <h1>
+    <div className="fw-bold">
       Journeyman - a trader or crafter who has completed an apprenticeship but
       is not at the level of a master craftsman
-    </h1>
+    </div>
   );
 };
